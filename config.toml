@@ -1,0 +1,28 @@
+baseURL = "https://brandonhoward.xyz/"
+languageCode = "en-us"
+title = "Brandon's site"
+theme = "lekh"
+
+[params]
+Name = "Brandon's site"
+About = "Hi there, I'm some random kid trying to figure out my life, my future, and this internet website thing."
+Email = "brandon@brandonhoward.xyz"
+Resume = "" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/BrandonADH"
+
+#[[params.profiles]]
+#name = "Twitter"
+#url = "https://twitter.com/ba11b0y"
+
+#[[params.profiles]]
+#name = "Goodreads"
+#url = "https://www.goodreads.com/user/show/91520565-rahul-tiwari"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/brandon-ad-howard/"
